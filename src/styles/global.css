@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    background: #2f3041;
+    font-size: 14px;
+    color: #DDD;
+    font-family: sans-serif;
+    height: 100%;
+}
+html{
+    height: 100%;
+}

@@ -1,0 +1,51 @@
+{
+    "ptBR":{
+        "HomePage": {
+            "hi": "Olá",
+            "im": "sou",
+            "jorge": "Jorge",
+            "imdeveloper": "Sou desenvolvedor",
+            "imdevelopersub": "FullStack / Web Developer",
+            "contactmebtn": "Contato"
+        },
+        "About":{
+            "Title": "Sobre",
+            "Text": "Some text lol (Maybe I'll use markup language)"
+
+        },
+        "Portfolio":{
+
+        },
+        "Contact":{
+            "Title": "Contato",
+            "placeholders": {
+                "name": "Nome",
+                "email": "E-Mail",
+                "msg": "Mensagem"
+            }
+
+        },
+        "Skills":{
+            "Title": "Habilidades & Experiência",
+            "Text": "MarkUp Language maybe?"
+
+        }
+    },
+    "enUS":{
+        "HomePage": {
+
+        },
+        "About":{
+
+        },
+        "Portfolio":{
+
+        },
+        "Contact":{
+
+        },
+        "Skills":{
+            
+        }
+    }
+}
